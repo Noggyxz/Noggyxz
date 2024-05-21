@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Noggyxz
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS,JS
+- 👋 Hi, I'm @Noggyxz
+- 👀 I'm interested in Web Development
+- 🌱 I am currently studying to be a backend developer
